@@ -1,6 +1,6 @@
-# Mike Black -- 4/20/14
-# dpfact.s -- returns the factorial of any given integer
-# Now in Science Fiction, Double Precision!
+# @filename: dpfact.s
+# @description: returns the factorial of any given integer
+#               Rendered in Science Fiction, Double Precision!
 
 main: 
         la      $a0, welcome	# Print a welcome message 
