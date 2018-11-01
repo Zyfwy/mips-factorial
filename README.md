@@ -1,4 +1,4 @@
-# mips-factorial
+# Factorials with MIPS assembly language
 This is a program that was written in MIPS assembly language. It returns the factorial of any given integer in double precision.<br />
 <br />
 To run this program, you will need a MIPS assembler, such as QtSpim (Figure 1). When the program is start, you should see output similar to Figure 2.<br />
